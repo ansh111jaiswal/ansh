@@ -1,4 +1,4 @@
 a = 3
-b = 6
+b = 55
 c = a*b
 print(c)
