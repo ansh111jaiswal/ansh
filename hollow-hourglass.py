@@ -1,4 +1,4 @@
-n = 8
+n = 7
 
 for i in range(n):
     if i <= n // 2:
