@@ -1,4 +1,4 @@
-n = 4
+n = 3
 num = 1
 
 for i in range(n):
