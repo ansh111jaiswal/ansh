@@ -1,4 +1,4 @@
-n = 4
+n = 5
 size = 2 * n - 1
 
 for i in range(size):
