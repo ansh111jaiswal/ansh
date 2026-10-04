@@ -1,4 +1,4 @@
-n = 5
+n = 4
 center = n // 2
 
 for i in range(n):
