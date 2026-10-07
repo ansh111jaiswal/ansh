@@ -1,5 +1,5 @@
-rows = 3
-cols = 9
+rows = 4
+cols = 12
 
 for i in range(rows):
     for j in range(cols):
