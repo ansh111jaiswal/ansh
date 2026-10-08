@@ -1,5 +1,5 @@
-n = 3
-num = 1
+n = 6
+num = 2
 
 for i in range(n):
 
