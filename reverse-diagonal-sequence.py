@@ -1,4 +1,4 @@
-n = 4
+n = 5
 
 for i in range(n, 0, -1):
     start = i * (i - 1) // 2 + 1
